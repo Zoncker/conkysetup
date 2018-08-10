@@ -1,9 +1,3 @@
---[[
-# Theme		: elegance-beam-afternoon, based from Elegance-beam conky by capn-damo (https://capn-damo.deviantart.com/art/Elegance-beam-conky-691220003)
-# Author	: F Hamzah <fahrud26@gmail.com>
-# License	: Distributed under the terms of GNU GPL version 2 or later
-]]
-
 conky.config = {
 	alignment = 'top_right',
 	background = false,
